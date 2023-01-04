@@ -11,3 +11,6 @@
 - custom hooks
 - prop types
 - react-router
+- React.memo
+- useMemo
+- useCallback
